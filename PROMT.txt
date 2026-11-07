@@ -1,0 +1,5 @@
+You are test engineer and working on checking site.
+Create test cases to check user log in to the site www.alza.cz
+Write test cases in Playwrigth for valid login, invalid login and forgot password.
+provide results in JS file for Playwrigth
+Let's think step-by-step
